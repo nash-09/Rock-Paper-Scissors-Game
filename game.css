@@ -1,0 +1,94 @@
+*{
+    background-color: #e6e0f5;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color: #ffe4f2;
+    background-color: #6c5ce7;
+    text-align: center;
+    padding: 10px;
+}
+
+#gameContainer{
+    display: flex;
+    justify-content: center;
+}
+
+#signs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    width: 600px;
+}
+
+.img{
+    height: 150px;
+    width: 150px;
+    border: 5px solid #6c5ce7;
+    border-radius: 50%;
+}
+.img:hover{
+    transform:scale(1.2);
+    transition: 0.5s;
+    cursor: pointer;
+    opacity: 50%;
+}
+.img img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+#null{
+    display: flex;
+    justify-content: center;
+}
+
+#scoreBoard{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    font-size: 36px;
+    width: 600px;
+}
+
+.scores{
+    text-align: center;
+}
+
+#message{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    background-color: #6c5ce7;
+    color: #ffe4f2;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f3e6f9;
+    font-size: 18px;
+    border: 2px solid #6c5ce7;
+}
+
+button:hover{
+    background-color: #d3bce7;
+    color: #ffffff;
+    border: 1px solid #bba3d6;
+    cursor: pointer;
+}
