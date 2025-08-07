@@ -29,6 +29,6 @@ It includes score tracking, visual feedback, and a responsive design.
 ## 📸 Preview
 
 
-![Game Screenshot](<img width="1847" height="927" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ada61d3d-92ca-442b-a486-712d942191fa" />)
+![Game Screenshot](Screenshot (6).png)
 
 ---
