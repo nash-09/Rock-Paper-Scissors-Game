@@ -29,6 +29,6 @@ It includes score tracking, visual feedback, and a responsive design.
 ## 📸 Preview
 
 
-![Game Screenshot](Screenshot (6).png)
+![Game Screenshot](https://github.com/nash-09/Rock-Paper-Scissors-Game/blob/main/Screenshot%20(6).png)
 
 ---
